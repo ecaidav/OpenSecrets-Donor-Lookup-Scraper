@@ -1,4 +1,4 @@
-# OpenSecrets-Donor-Lookup-Scraper-Selenium
+# OpenSecrets-Donor-Lookup-Scraper
 
 This Google Colab Jupyter notebook has Python code that uses Pandas, RegEx and Selenium to scrape [OpenSecrets Donor Lookup](https://www.opensecrets.org/donor-lookup/). 
 
